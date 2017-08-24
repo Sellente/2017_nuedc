@@ -1,3 +1,5 @@
+#encoding: utf-8
+#by TiH
 
 import alsaaudio
 import struct
